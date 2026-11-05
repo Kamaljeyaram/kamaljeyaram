@@ -9,7 +9,7 @@
 I build AI agents and the parts they're made of. **Perception** turns cameras and documents into structured signals. **Reasoning** combines LLMs with retrieval and knows when it isn't confident. **Action** reaches people through tools, APIs, bots and apps.
 
 <p>
-  <a href="https://portfolio-nine-sand-tbjjmccoxi.vercel.app"><img alt="Portfolio" src="https://img.shields.io/badge/PORTFOLIO-FF4D2E?style=for-the-badge&logo=vercel&logoColor=111111"></a>
+  <a href="https://kamal-jeyaram.vercel.app"><img alt="Portfolio" src="https://img.shields.io/badge/PORTFOLIO-FF4D2E?style=for-the-badge&logo=vercel&logoColor=111111"></a>
   <a href="https://github.com/Kamaljeyaram?tab=repositories"><img alt="Repositories" src="https://img.shields.io/badge/REPOSITORIES-111111?style=for-the-badge&logo=github&logoColor=F2EFE8"></a>
 </p>
 
