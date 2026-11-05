@@ -1,0 +1,86 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="330" viewBox="0 0 1200 330" role="img" aria-label="Toolbox">
+<title>Toolbox</title>
+<defs></defs>
+<style>@media (prefers-reduced-motion: reduce) { * { animation: none !important; } }</style>
+<rect x="1" y="1" width="1198" height="328" rx="14" fill="#F2EFE8" stroke="#D6CFC2"/>
+<text x="40" y="58" font-family="ui-monospace, SFMono-Regular, Consolas, Liberation Mono, Menlo, monospace" font-size="12" fill="#FF4D2E">01</text>
+<text x="68" y="59" font-family="Segoe UI, -apple-system, BlinkMacSystemFont, Helvetica Neue, Arial, sans-serif" font-size="17" font-weight="900" letter-spacing="1" fill="#111111">VISION</text>
+<rect x="40" y="74" width="255" height="2" fill="#111111"/>
+<text x="40" y="108" font-family="ui-monospace, SFMono-Regular, Consolas, Liberation Mono, Menlo, monospace" font-size="10" fill="#8A857C">01</text>
+<text x="68" y="108" font-family="Segoe UI, -apple-system, BlinkMacSystemFont, Helvetica Neue, Arial, sans-serif" font-size="16" fill="#111111">YOLO</text>
+<line x1="40" y1="121" x2="295" y2="121" stroke="#D6CFC2"/>
+<text x="40" y="142" font-family="ui-monospace, SFMono-Regular, Consolas, Liberation Mono, Menlo, monospace" font-size="10" fill="#8A857C">02</text>
+<text x="68" y="142" font-family="Segoe UI, -apple-system, BlinkMacSystemFont, Helvetica Neue, Arial, sans-serif" font-size="16" fill="#111111">InsightFace</text>
+<line x1="40" y1="155" x2="295" y2="155" stroke="#D6CFC2"/>
+<text x="40" y="176" font-family="ui-monospace, SFMono-Regular, Consolas, Liberation Mono, Menlo, monospace" font-size="10" fill="#8A857C">03</text>
+<text x="68" y="176" font-family="Segoe UI, -apple-system, BlinkMacSystemFont, Helvetica Neue, Arial, sans-serif" font-size="16" fill="#111111">DeepFace</text>
+<line x1="40" y1="189" x2="295" y2="189" stroke="#D6CFC2"/>
+<text x="40" y="210" font-family="ui-monospace, SFMono-Regular, Consolas, Liberation Mono, Menlo, monospace" font-size="10" fill="#8A857C">04</text>
+<text x="68" y="210" font-family="Segoe UI, -apple-system, BlinkMacSystemFont, Helvetica Neue, Arial, sans-serif" font-size="16" fill="#111111">PaddleOCR</text>
+<line x1="40" y1="223" x2="295" y2="223" stroke="#D6CFC2"/>
+<text x="40" y="244" font-family="ui-monospace, SFMono-Regular, Consolas, Liberation Mono, Menlo, monospace" font-size="10" fill="#8A857C">05</text>
+<text x="68" y="244" font-family="Segoe UI, -apple-system, BlinkMacSystemFont, Helvetica Neue, Arial, sans-serif" font-size="16" fill="#111111">OpenCV</text>
+<line x1="40" y1="257" x2="295" y2="257" stroke="#D6CFC2"/>
+<text x="40" y="278" font-family="ui-monospace, SFMono-Regular, Consolas, Liberation Mono, Menlo, monospace" font-size="10" fill="#8A857C">06</text>
+<text x="68" y="278" font-family="Segoe UI, -apple-system, BlinkMacSystemFont, Helvetica Neue, Arial, sans-serif" font-size="16" fill="#111111">PyTorch</text>
+<text x="325" y="58" font-family="ui-monospace, SFMono-Regular, Consolas, Liberation Mono, Menlo, monospace" font-size="12" fill="#FF4D2E">02</text>
+<text x="353" y="59" font-family="Segoe UI, -apple-system, BlinkMacSystemFont, Helvetica Neue, Arial, sans-serif" font-size="17" font-weight="900" letter-spacing="1" fill="#111111">LLMs &amp; AGENTS</text>
+<rect x="325" y="74" width="255" height="2" fill="#111111"/>
+<text x="325" y="108" font-family="ui-monospace, SFMono-Regular, Consolas, Liberation Mono, Menlo, monospace" font-size="10" fill="#8A857C">01</text>
+<text x="353" y="108" font-family="Segoe UI, -apple-system, BlinkMacSystemFont, Helvetica Neue, Arial, sans-serif" font-size="16" fill="#111111">Gemini</text>
+<line x1="325" y1="121" x2="580" y2="121" stroke="#D6CFC2"/>
+<text x="325" y="142" font-family="ui-monospace, SFMono-Regular, Consolas, Liberation Mono, Menlo, monospace" font-size="10" fill="#8A857C">02</text>
+<text x="353" y="142" font-family="Segoe UI, -apple-system, BlinkMacSystemFont, Helvetica Neue, Arial, sans-serif" font-size="16" fill="#111111">Ollama · phi4-mini</text>
+<line x1="325" y1="155" x2="580" y2="155" stroke="#D6CFC2"/>
+<text x="325" y="176" font-family="ui-monospace, SFMono-Regular, Consolas, Liberation Mono, Menlo, monospace" font-size="10" fill="#8A857C">03</text>
+<text x="353" y="176" font-family="Segoe UI, -apple-system, BlinkMacSystemFont, Helvetica Neue, Arial, sans-serif" font-size="16" fill="#111111">sentence-transformers</text>
+<line x1="325" y1="189" x2="580" y2="189" stroke="#D6CFC2"/>
+<text x="325" y="210" font-family="ui-monospace, SFMono-Regular, Consolas, Liberation Mono, Menlo, monospace" font-size="10" fill="#8A857C">04</text>
+<text x="353" y="210" font-family="Segoe UI, -apple-system, BlinkMacSystemFont, Helvetica Neue, Arial, sans-serif" font-size="16" fill="#111111">FAISS</text>
+<line x1="325" y1="223" x2="580" y2="223" stroke="#D6CFC2"/>
+<text x="325" y="244" font-family="ui-monospace, SFMono-Regular, Consolas, Liberation Mono, Menlo, monospace" font-size="10" fill="#8A857C">05</text>
+<text x="353" y="244" font-family="Segoe UI, -apple-system, BlinkMacSystemFont, Helvetica Neue, Arial, sans-serif" font-size="16" fill="#111111">Tavily</text>
+<line x1="325" y1="257" x2="580" y2="257" stroke="#D6CFC2"/>
+<text x="325" y="278" font-family="ui-monospace, SFMono-Regular, Consolas, Liberation Mono, Menlo, monospace" font-size="10" fill="#8A857C">06</text>
+<text x="353" y="278" font-family="Segoe UI, -apple-system, BlinkMacSystemFont, Helvetica Neue, Arial, sans-serif" font-size="16" fill="#111111">Pydantic</text>
+<text x="610" y="58" font-family="ui-monospace, SFMono-Regular, Consolas, Liberation Mono, Menlo, monospace" font-size="12" fill="#FF4D2E">03</text>
+<text x="638" y="59" font-family="Segoe UI, -apple-system, BlinkMacSystemFont, Helvetica Neue, Arial, sans-serif" font-size="17" font-weight="900" letter-spacing="1" fill="#111111">BACKEND &amp; CLOUD</text>
+<rect x="610" y="74" width="255" height="2" fill="#111111"/>
+<text x="610" y="108" font-family="ui-monospace, SFMono-Regular, Consolas, Liberation Mono, Menlo, monospace" font-size="10" fill="#8A857C">01</text>
+<text x="638" y="108" font-family="Segoe UI, -apple-system, BlinkMacSystemFont, Helvetica Neue, Arial, sans-serif" font-size="16" fill="#111111">FastAPI</text>
+<line x1="610" y1="121" x2="865" y2="121" stroke="#D6CFC2"/>
+<text x="610" y="142" font-family="ui-monospace, SFMono-Regular, Consolas, Liberation Mono, Menlo, monospace" font-size="10" fill="#8A857C">02</text>
+<text x="638" y="142" font-family="Segoe UI, -apple-system, BlinkMacSystemFont, Helvetica Neue, Arial, sans-serif" font-size="16" fill="#111111">Node · Express</text>
+<line x1="610" y1="155" x2="865" y2="155" stroke="#D6CFC2"/>
+<text x="610" y="176" font-family="ui-monospace, SFMono-Regular, Consolas, Liberation Mono, Menlo, monospace" font-size="10" fill="#8A857C">03</text>
+<text x="638" y="176" font-family="Segoe UI, -apple-system, BlinkMacSystemFont, Helvetica Neue, Arial, sans-serif" font-size="16" fill="#111111">AWS Lambda</text>
+<line x1="610" y1="189" x2="865" y2="189" stroke="#D6CFC2"/>
+<text x="610" y="210" font-family="ui-monospace, SFMono-Regular, Consolas, Liberation Mono, Menlo, monospace" font-size="10" fill="#8A857C">04</text>
+<text x="638" y="210" font-family="Segoe UI, -apple-system, BlinkMacSystemFont, Helvetica Neue, Arial, sans-serif" font-size="16" fill="#111111">DynamoDB</text>
+<line x1="610" y1="223" x2="865" y2="223" stroke="#D6CFC2"/>
+<text x="610" y="244" font-family="ui-monospace, SFMono-Regular, Consolas, Liberation Mono, Menlo, monospace" font-size="10" fill="#8A857C">05</text>
+<text x="638" y="244" font-family="Segoe UI, -apple-system, BlinkMacSystemFont, Helvetica Neue, Arial, sans-serif" font-size="16" fill="#111111">Firebase · Supabase</text>
+<line x1="610" y1="257" x2="865" y2="257" stroke="#D6CFC2"/>
+<text x="610" y="278" font-family="ui-monospace, SFMono-Regular, Consolas, Liberation Mono, Menlo, monospace" font-size="10" fill="#8A857C">06</text>
+<text x="638" y="278" font-family="Segoe UI, -apple-system, BlinkMacSystemFont, Helvetica Neue, Arial, sans-serif" font-size="16" fill="#111111">Twilio · Agora</text>
+<text x="895" y="58" font-family="ui-monospace, SFMono-Regular, Consolas, Liberation Mono, Menlo, monospace" font-size="12" fill="#FF4D2E">04</text>
+<text x="923" y="59" font-family="Segoe UI, -apple-system, BlinkMacSystemFont, Helvetica Neue, Arial, sans-serif" font-size="17" font-weight="900" letter-spacing="1" fill="#111111">APPS</text>
+<rect x="895" y="74" width="255" height="2" fill="#111111"/>
+<text x="895" y="108" font-family="ui-monospace, SFMono-Regular, Consolas, Liberation Mono, Menlo, monospace" font-size="10" fill="#8A857C">01</text>
+<text x="923" y="108" font-family="Segoe UI, -apple-system, BlinkMacSystemFont, Helvetica Neue, Arial, sans-serif" font-size="16" fill="#111111">React</text>
+<line x1="895" y1="121" x2="1150" y2="121" stroke="#D6CFC2"/>
+<text x="895" y="142" font-family="ui-monospace, SFMono-Regular, Consolas, Liberation Mono, Menlo, monospace" font-size="10" fill="#8A857C">02</text>
+<text x="923" y="142" font-family="Segoe UI, -apple-system, BlinkMacSystemFont, Helvetica Neue, Arial, sans-serif" font-size="16" fill="#111111">Vue 3</text>
+<line x1="895" y1="155" x2="1150" y2="155" stroke="#D6CFC2"/>
+<text x="895" y="176" font-family="ui-monospace, SFMono-Regular, Consolas, Liberation Mono, Menlo, monospace" font-size="10" fill="#8A857C">03</text>
+<text x="923" y="176" font-family="Segoe UI, -apple-system, BlinkMacSystemFont, Helvetica Neue, Arial, sans-serif" font-size="16" fill="#111111">Flutter</text>
+<line x1="895" y1="189" x2="1150" y2="189" stroke="#D6CFC2"/>
+<text x="895" y="210" font-family="ui-monospace, SFMono-Regular, Consolas, Liberation Mono, Menlo, monospace" font-size="10" fill="#8A857C">04</text>
+<text x="923" y="210" font-family="Segoe UI, -apple-system, BlinkMacSystemFont, Helvetica Neue, Arial, sans-serif" font-size="16" fill="#111111">React Native · Expo</text>
+<line x1="895" y1="223" x2="1150" y2="223" stroke="#D6CFC2"/>
+<text x="895" y="244" font-family="ui-monospace, SFMono-Regular, Consolas, Liberation Mono, Menlo, monospace" font-size="10" fill="#8A857C">05</text>
+<text x="923" y="244" font-family="Segoe UI, -apple-system, BlinkMacSystemFont, Helvetica Neue, Arial, sans-serif" font-size="16" fill="#111111">TypeScript</text>
+<line x1="895" y1="257" x2="1150" y2="257" stroke="#D6CFC2"/>
+<text x="895" y="278" font-family="ui-monospace, SFMono-Regular, Consolas, Liberation Mono, Menlo, monospace" font-size="10" fill="#8A857C">06</text>
+<text x="923" y="278" font-family="Segoe UI, -apple-system, BlinkMacSystemFont, Helvetica Neue, Arial, sans-serif" font-size="16" fill="#111111">Tailwind</text>
+</svg>
