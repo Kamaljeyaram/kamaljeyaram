@@ -1,0 +1,46 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="320" viewBox="0 0 1200 320" role="img" aria-labelledby="title desc">
+  <title id="title">Kamal Jeyaram</title>
+  <desc id="desc">Building AI agents that see, read and act. Perceive, reason, act.</desc>
+  <defs>
+    <clipPath id="card"><rect width="1200" height="320" rx="14"/></clipPath>
+    <clipPath id="paper"><rect x="0" y="0" width="880" height="320"/></clipPath>
+    <clipPath id="block"><rect x="880" y="0" width="320" height="320"/></clipPath>
+  </defs>
+  <style>
+    .w { fill: #111111; animation: hl 6s infinite; }
+    .w2 { animation-delay: 2s; }
+    .w3 { animation-delay: 4s; }
+    @keyframes hl { 0%, 26% { fill: #FFFFFF; } 33%, 100% { fill: #111111; } }
+    @media (prefers-reduced-motion: reduce) { .w { animation: none; } }
+  </style>
+
+  <g clip-path="url(#card)">
+    <rect width="1200" height="320" fill="#F2EFE8"/>
+    <rect x="880" y="0" width="320" height="320" fill="#FF4D2E"/>
+
+    <!-- name -->
+    <text x="36" y="148" font-family="Segoe UI, -apple-system, BlinkMacSystemFont, Helvetica Neue, Arial, sans-serif" font-size="150" font-weight="900" fill="#111111" textLength="560" lengthAdjust="spacingAndGlyphs">KAMAL</text>
+    <g font-family="Segoe UI, -apple-system, BlinkMacSystemFont, Helvetica Neue, Arial, sans-serif" font-size="150" font-weight="900" fill="none" stroke-width="2">
+      <text x="36" y="292" stroke="#111111" clip-path="url(#paper)" textLength="900" lengthAdjust="spacingAndGlyphs">JEYARAM</text>
+      <text x="36" y="292" stroke="#F2EFE8" clip-path="url(#block)" textLength="900" lengthAdjust="spacingAndGlyphs">JEYARAM</text>
+    </g>
+
+    <!-- masthead -->
+    <text x="640" y="56" font-family="ui-monospace, SFMono-Regular, Consolas, Liberation Mono, Menlo, monospace" font-size="12" letter-spacing="3" fill="#111111">NO. 01 — AGENTIC SYSTEMS</text>
+    <text x="640" y="88" font-family="Segoe UI, -apple-system, BlinkMacSystemFont, Helvetica Neue, Arial, sans-serif" font-size="18" fill="#4A4640">Building AI agents</text>
+    <text x="640" y="112" font-family="Segoe UI, -apple-system, BlinkMacSystemFont, Helvetica Neue, Arial, sans-serif" font-size="18" fill="#4A4640">that see, read &amp; act.</text>
+
+    <!-- agent loop -->
+    <text x="1164" y="56" text-anchor="end" font-family="ui-monospace, SFMono-Regular, Consolas, Liberation Mono, Menlo, monospace" font-size="12" letter-spacing="3" fill="#111111">THE LOOP ↻</text>
+    <g font-family="ui-monospace, SFMono-Regular, Consolas, Liberation Mono, Menlo, monospace" font-size="10" letter-spacing="1.5" fill="#111111" fill-opacity="0.75">
+      <text x="960" y="112">01 / VISION · OCR</text>
+      <text x="960" y="174">02 / LLMs · RETRIEVAL</text>
+      <text x="960" y="236">03 / TOOLS · APIs · APPS</text>
+    </g>
+    <g font-family="Segoe UI, -apple-system, BlinkMacSystemFont, Helvetica Neue, Arial, sans-serif" font-size="30" font-weight="900">
+      <text class="w" x="958" y="142">PERCEIVE</text>
+      <text class="w w2" x="958" y="204">REASON</text>
+      <text class="w w3" x="958" y="266">ACT</text>
+    </g>
+  </g>
+</svg>
