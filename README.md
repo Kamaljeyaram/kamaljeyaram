@@ -156,8 +156,8 @@ What I care about most is the judgment layer: a system that knows when it's conf
 | [eduguide](https://github.com/Kamaljeyaram/eduguide) | Dart | Oct 2026 |
 | [ResumeAnalyzer](https://github.com/Kamaljeyaram/ResumeAnalyzer) | Python | Jul 2026 |
 | [smokeandfiredetection](https://github.com/Kamaljeyaram/smokeandfiredetection) | Python | Jul 2026 |
-| [eightfold_AI](https://github.com/Kamaljeyaram/eightfold_AI) | Python | Jun 2026 |
 | [deep_doctor](https://github.com/Kamaljeyaram/deep_doctor) | Dart | Feb 2026 |
+| [VoiceCall_Backend](https://github.com/Kamaljeyaram/VoiceCall_Backend) | JavaScript | Feb 2026 |
 <!-- RECENT:END -->
 
 <br>
